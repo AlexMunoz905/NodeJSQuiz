@@ -1,0 +1,13 @@
+{
+  "name": "nodequiz",
+  "version": "1.0.0",
+  "description": "A simple node quiz with Prompt",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "1.0.0"
+  },
+  "devDependencies": {},
+
+  "author": "Alex Munoz <alex.munoz905@gmail.com> (http://napend.com/)",
+  "license": "MIT"
+}
