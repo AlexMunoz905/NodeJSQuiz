@@ -4,7 +4,7 @@ Age: 12
 Site: http://napend.com
 Work Email: alex@napend.com
 Personal Email: alex.munoz905@gmail.com
-Description: This is a quiz on
+Description: This is a quiz on Alex Munoz
 */
 
 
@@ -43,5 +43,5 @@ if(DYLI === "Yes"){
 
 //Varible for the users name
 var fname = result.FirstName
-console.log("Thanks for playing" + fname + "!");
+console.log("Thanks for playing " + fname + "!");
 });
